@@ -1,0 +1,131 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+CHARACTER_TOOLTIP_DELAYED;Health: §Y[This.GetHealthInfo]§!\nFertility: §Y[This.GetFertilityInfo]§!\nID: §Y[GetID]§!\n[This.GetMysticInfo]\n[GetStatusInfo];;;;;;;;;;;;;x
+convert_culture_ttt;Convert to Your Culture;;;;;;;;;;;;;x
+convert_culture_ttt_desc;Convert this county to your culture;;;;;;;;;;;;;x
+convert_culture_free_ttt;Convert to your Culture FREE;;;;;;;;;;;;;x
+convert_culture_free_ttt_desc;Convert this county to your culture for free;;;;;;;;;;;;;x
+convert_religion_ttt;Convert to Your Religion;;;;;;;;;;;;;x
+convert_religion_ttt_desc;Convert this county to your religion;;;;;;;;;;;;;x
+convert_religion_free_ttt;Convert to Your Religion FREE;;;;;;;;;;;;;x
+convert_religion_free_ttt_desc;Convert this county to your religion for free;;;;;;;;;;;;;x
+convert_free_ttt;Enable TTT Cheats;;;;;;;;;;;;;x
+convert_free_ttt_desc;Enables the free usurpations and conversions;;;;;;;;;;;;;x
+convert_unfree_ttt;Disable TTT Cheats;;;;;;;;;;;;;x
+convert_unfree_ttt_desc;Disables the free usurpations and conversions;;;;;;;;;;;;;x
+convert_ai_to_player_religion_free;Convert To Your Religion FREE;;;;;;;;;;;;;x
+convert_ai_to_player_culture_free;Convert To Your Culture FREE;;;;;;;;;;;;;x
+convert_ai_to_player_religion_free_desc;Convert this character to your religion freely.;;;;;;;;;;;;;x
+convert_ai_to_player_culture_free_desc;Convert this character to your culture freely.;;;;;;;;;;;;;x
+convert_ai_to_player_culture;Demand Culture Conversion;;;;;;;;;;;;;x
+convert_ai_to_player_culture_desc;Demand this character to convert to your culture.;;;;;;;;;;;;;x
+EVTDESCttt.1;We are being asked to convert to our Liege's culture, how should we respond?;;;;;;;;;;;;;x
+EVTOPTAttt.1;I accept.;;;;;;;;;;;;;x
+EVTOPTCttt.1;I refuse.;;;;;;;;;;;;;x
+convert_player_to_ai_religion;Convert To Their Religion;;;;;;;;;;;;;x
+convert_player_to_ai_culture;Convert To Their Culture;;;;;;;;;;;;;x
+convert_player_to_ai_religion_desc;Convert this character to your religion freely.;;;;;;;;;;;;;x
+convert_player_to_ai_culture_desc;Convert this character to your culture freely.;;;;;;;;;;;;;x
+EVTDESCttt.2;[Root.PrimaryTitle.GetFOA], I will of course obey your will and convert to [From.Culture.GetName]! Our bonds, as well as my people's shall be strengthened!;;;;;;;;;;;;;x
+EVTDESCttt.3;[Root.PrimaryTitle.GetFOA], I utterly refuse this outrageous demand. I will not abandon my [From.Culture.GetName] culture in favor of your [Root.Culture.GetName].;;;;;;;;;;;;;x
+EVTOPTAttt.2;We stand stronger united.;;;;;;;;;;;;;x
+EVTOPTAttt.3;Damnation!;;;;;;;;;;;;;x
+usurp_freely_ttt;Usurp Title Freely;;;;;;;;;;;;;x
+usurp_freely_ttt_desc;Usurp this title regardless of limitations.;;;;;;;;;;;;;x
+convert_player_to_ai_gfxculture;Convert to Their Ethnicity;;;;;;;;;;;;;x
+convert_player_to_ai_gfxculture_desc;Convert to this character's graphical culture, or ethnicity;;;;;;;;;;;;;x
+convert_ai_to_player_gfxculture;Convert to Your Ethnicity;;;;;;;;;;;;;x
+convert_ai_to_player_gfxculture_desc;Convert this character to your graphical culture, or ethnicity;;;;;;;;;;;;;x
+colonize_btw_1;Colonize Beyond The Wall - 1/5;;;;;;;;;;;;;x
+colonize_btw_2;Colonize Beyond The Wall - 2/5;;;;;;;;;;;;;x
+colonize_btw_3;Colonize Beyond The Wall - 3/5;;;;;;;;;;;;;x
+colonize_btw_4;Colonize Beyond The Wall - 4/5;;;;;;;;;;;;;x
+colonize_btw_5;Colonize Beyond The Wall - 5/5;;;;;;;;;;;;;x
+colonize_btw_6;Create a Lord Paramount of Beyond The Wall;;;;;;;;;;;;;x
+colonize_btw_1_desc;The lands beyond The Wall have gone uncivilized for too long! Their constant raids and savagery must be put to an end, and to accomplish that, we must take up arms against them and march North, beyond the barrier that separates us.;;;;;;;;;;;;;x
+colonize_btw_2_desc;Our initial advance has proven to be successful, and our armies have defeated the Wildlings, gaining us lands which we can grant to good men from back home to look over our winnings.;;;;;;;;;;;;;x
+colonize_btw_3_desc;We have gained a foothold beyond the great ice barrier, but it's not enough. We must keep expanding and push them back to secure our influence and power over the area.;;;;;;;;;;;;;x
+colonize_btw_4_desc;Nearly half ot the known settled lands beyond The Wall have fallen to our grand expeditionary armies. We must now make a move against the Northernmost tribes, and secure that end of the border from any more raids.;;;;;;;;;;;;;x
+colonize_btw_5_desc;Only the last remaining set of tribes remain to the West. We must annex them into the Realm and finally put and end to the Wildling menace! These savages shall fall and civilization shall set in.;;;;;;;;;;;;;x
+colonize_btw_6_desc;Our invasion beyond The Wall has been succesful, the Wildlings have submitted to us and all the formerly uncivilized lands have now begun to accept the fact that we rule over them. But, we must grant the honour of Lord Paramount to somebody who governs those lands locally to better administrate them.;;;;;;;;;;;;;x
+subjugate_the_wall_ttt;Annex The Wall;;;;;;;;;;;;;x
+subjugate_the_wall_ttt_desc;We control the lands both North and South of the Wall, rendering it useless. It's time we incorporate it into our realm, as it's done what it was supposed to and is no longer needed.;;;;;;;;;;;;;x
+become_celibate_ttt;Become Celibate;;;;;;;;;;;;;x
+become_celibate_ttt_desc;I do not wish to have children any more, I shall commit my life to celibacy.;;;;;;;;;;;;;x
+renounce_celibate_ttt;Renounce Celibacy;;;;;;;;;;;;;x
+renounce_celibate_ttt_desc;I wish to have children again, and for that I have to renounce my celibacy.;;;;;;;;;;;;;x
+change_marriage_matrilineal_ttt;Change Marriage Matrilinealy;;;;;;;;;;;;;x
+change_marriage_patrilineal_ttt;Change Marriage Patrilinealy;;;;;;;;;;;;;x
+change_marriage_matrilineal_ttt_desc;Change this marriage into a Matrilineal one.;;;;;;;;;;;;;x
+change_marriage_patrilineal_ttt_desc;Change this marriage into a Patrilineal one.;;;;;;;;;;;;;x
+impregnate_easily_ai;Impregnate AI;;;;;;;;;;;;;x
+impregnate_wife_easily_ai;Impregnate AI's Wife;;;;;;;;;;;;;x
+impregnate_easily_ai_desc;Impregnate this AI with their spouse's seed.;;;;;;;;;;;;;x
+impregnate_wife_easily_ai_desc;Impregnate this AI's spouse with their seed.;;;;;;;;;;;;;x
+ttt_plus1_1;Plus One Year;;;;;;;;;;;;;x
+ttt_plus1_2;Plus One Year;;;;;;;;;;;;;x
+ttt_plus1_3;Plus One Year;;;;;;;;;;;;;x
+ttt_plus1_4;Plus One Year;;;;;;;;;;;;;x
+ttt_plus5_1;Plus Five Years;;;;;;;;;;;;;x
+ttt_plus10_1;Plus Ten Years;;;;;;;;;;;;;x
+ttt_plus10_2;Plus Ten Years;;;;;;;;;;;;;x
+ttt_plus10_3;Plus Ten Years;;;;;;;;;;;;;x
+ttt_plus10_4;Plus Ten Years;;;;;;;;;;;;;x
+ttt_plus1_1_desc;Add a year to your character;;;;;;;;;;;;;x
+ttt_plus1_2_desc;Add a year to your character;;;;;;;;;;;;;x
+ttt_plus1_3_desc;Add a year to your character;;;;;;;;;;;;;x
+ttt_plus1_4_desc;Add a year to your character;;;;;;;;;;;;;x
+ttt_plus5_1_desc;Add five years to your character;;;;;;;;;;;;;x
+ttt_plus10_1_desc;Add ten years to your character;;;;;;;;;;;;;x
+ttt_plus10_2_desc;Add ten years to your character;;;;;;;;;;;;;x
+ttt_plus10_3_desc;Add ten years to your character;;;;;;;;;;;;;x
+ttt_plus10_4_desc;Add ten years to your character;;;;;;;;;;;;;x
+ttt_minus1_1;Minus One Year;;;;;;;;;;;;;x
+ttt_minus1_2;Minus One Year;;;;;;;;;;;;;x
+ttt_minus1_3;Minus One Year;;;;;;;;;;;;;x
+ttt_minus1_4;Minus One Year;;;;;;;;;;;;;x
+ttt_minus5_1;Minus Five Years;;;;;;;;;;;;;x
+ttt_minus10_1;Minus Ten Years;;;;;;;;;;;;;x
+ttt_minus10_2;Minus Ten Years;;;;;;;;;;;;;x
+ttt_minus10_3;Minus Ten Years;;;;;;;;;;;;;x
+ttt_minus10_4;Minus Ten Years;;;;;;;;;;;;;x
+ttt_minus1_1_desc;Remove a year to your character;;;;;;;;;;;;;x
+ttt_minus1_2_desc;Remove a year to your character;;;;;;;;;;;;;x
+ttt_minus1_3_desc;Remove a year to your character;;;;;;;;;;;;;x
+ttt_minus1_4_desc;Remove a year to your character;;;;;;;;;;;;;x
+ttt_minus5_1_desc;Remove five years to your character;;;;;;;;;;;;;x
+ttt_minus10_1_desc;Remove ten years to your character;;;;;;;;;;;;;x
+ttt_minus10_2_desc;Remove ten years to your character;;;;;;;;;;;;;x
+ttt_minus10_3_desc;Remove ten years to your character;;;;;;;;;;;;;x
+ttt_minus10_4_desc;Remove ten years to your character;;;;;;;;;;;;;x
+imprison_free;Imprison Freely;;;;;;;;;;;;;x
+imprison_free_desc;Imprison this character freely.;;;;;;;;;;;;;x
+move_freely;Move Character Freely;;;;;;;;;;;;;x
+move_freely_desc;Move this character to your court freely.;;;;;;;;;;;;;x
+ttt_minus50;Minus Fifty Years;;;;;;;;;;;;;x
+ttt_minus50_desc;Remove fifty years to your character;;;;;;;;;;;;;x
+rename_character_ttt;Rename Character Freely;;;;;;;;;;;;;x
+rename_character_ttt_desc;Rename this character to your liking;;;;;;;;;;;;;x
+get_claim_ttt;Get Claim;;;;;;;;;;;;;x
+get_claim_ttt_desc;Get a claim on this title for free;;;;;;;;;;;;;x
+buy_claim_county_ttt;Buy Claim;;;;;;;;;;;;;x
+buy_claim_duchy_ttt;Buy Claim;;;;;;;;;;;;;x
+buy_claim_kingdom_ttt;Buy Claim;;;;;;;;;;;;;x
+buy_claim_empire_ttt;Buy Claim;;;;;;;;;;;;;x
+buy_claim_county_ttt_desc;Buy a claim on this county;;;;;;;;;;;;;x
+buy_claim_duchy_ttt_desc;Buy a claim on this duchy;;;;;;;;;;;;;x
+buy_claim_kingdom_ttt_desc;Buy a claim on this kingdom;;;;;;;;;;;;;x
+buy_claim_empire_ttt_desc;Buy a claim on this empire;;;;;;;;;;;;;x
+start_ttt_adventure_desc;All of [Root.GetTitledFirstName]'s lands are abandoned, meanwhile its ruler sets off on an adventure.;;;;;;;;;;;;;x
+start_ttt_adventure;Become and Adventurer;;;;;;;;;;;;;x
+make_rival_ttt;Make Rival;;;;;;;;;;;;;x
+make_friend_ttt;Make Friend;;;;;;;;;;;;;x
+make_lover_ttt;Make Lover;;;;;;;;;;;;;x
+make_rival_ttt_desc;Turn this character into your rival;;;;;;;;;;;;;x
+make_friend_ttt_desc;Turn this character into your friend;;;;;;;;;;;;;x
+make_lover_ttt_desc;Turn this character into your lover;;;;;;;;;;;;;x
+remove_friend_ttt;Remove Friend
+remove_rival_ttt;Remove Rival
+remove_lover_ttt;Remove Lover
+remove_friend_ttt_desc;Remove this character as your friend;;;;;;;;;;;;;x
+remove_rival_ttt_desc;Remove this character as your rival;;;;;;;;;;;;;x
+remove_lover_ttt_desc;Remove this character as your lover;;;;;;;;;;;;;x

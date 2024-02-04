@@ -1,0 +1,20 @@
+# 1254 - Marakanda
+
+# County Title
+title = c_samarkand
+
+# Settlements
+max_settlements = 6
+b_afrasiyab = castle
+b_samarkand = castle
+b_parsiab = temple
+
+b_ishtikhon = castle
+b_urgut = castle
+#b_koshrabot = castle
+#b_ziadin = castle
+#b_laish = castle
+
+# Misc
+culture = tocharian
+religion = bud_pureland

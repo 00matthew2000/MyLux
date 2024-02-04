@@ -1,0 +1,19 @@
+# 683 - Amida
+
+# County Title
+title = c_korduk
+
+# Settlements
+max_settlements = 4
+b_arzan = castle
+b_tatvan = city
+b_dayrodmoryaqoub = temple
+#b_baghaghes = castle
+#b_moks = city
+#b_cepha = city
+#b_aghtamar = temple
+#b_dayrodmoryolataaloho = temple
+
+# Misc
+culture = armenian
+religion = yahyanism

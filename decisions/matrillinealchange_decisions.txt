@@ -1,0 +1,54 @@
+targetted_decisions = {
+
+	change_marriage_matrilineal_ttt = {
+		ai = no
+		diplomacy_icon = GFX_OFFER_MARRIGE_INTERACTION_icon
+		
+		potential = {
+			ai = yes
+			age = 14
+			is_married_matrilineally = no
+			is_married = yes
+			is_female = yes
+		}
+		allow = {
+			spouse = {
+				age = 14
+			}
+		}
+		effect = {
+			ROOT = {
+				any_spouse = {
+					is_female = no
+					add_spouse_matrilineal = ROOT
+				}
+			}
+		}
+	}
+	
+	change_marriage_patrilineal_ttt = {
+		ai = no
+		diplomacy_icon = GFX_OFFER_MARRIGE_INTERACTION_icon
+		
+		potential = {
+			ai = yes
+			age = 14
+			is_married_matrilineally = yes
+			is_married = yes
+			is_female = no
+		}
+		allow = {
+			spouse = {
+				age = 14
+			}
+		}
+		effect = {
+			ROOT = {
+				any_spouse = {
+					is_female = yes
+					add_spouse = ROOT
+				}
+			}
+		}
+	}
+}
