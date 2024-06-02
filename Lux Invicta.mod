@@ -1,6 +1,6 @@
-name = "Lux Invicta v0.6K10" 
-path = "mod/Lux Invicta"
-user_dir = "Lux Invicta"
+name = "My Lux Modifications" 
+path = "mod/MyLux"
+user_dir = "MyLux"
 
 replace_path = common/buildings
 replace_path = common/trade_routes
